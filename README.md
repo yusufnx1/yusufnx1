@@ -15,10 +15,10 @@
 
 ### 🪐 About Me 
 
-🧬  Since September 2022, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#.
+🧬  Since September 2021, I have been working on Full Stack Development of web applications by using Asp.NET, Mssql, Html, C#.
 
 
-🧬 At the beginning of March 2023, I have started a bootcamp with Asp.Net Core & Angular 
+🧬 At the beginning of March 2022, I have started a bootcamp with Asp.Net Core & Angular 
 
 
 
@@ -33,7 +33,7 @@
  
 ### Contact & Social
 <h3 align="center">
- <a href="https://www.linkedin.com/in/egunduz/">
+ <a href="https://www.linkedin.com/in/yusufnx1/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
 </h3>
